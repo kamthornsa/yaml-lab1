@@ -1,2 +1,2 @@
-hello.yml
-parallel.yml
+.github/workflows/parallel.yml
+.github/workflows/hello.yml
