@@ -1,8 +1,8 @@
 name: Hello Workflow
 
-  on:
+on:
     push:
-  jobs:
+jobs:
     greet:
       runs-on: ubuntu-latest
       steps:
